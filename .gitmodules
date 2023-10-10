@@ -5,6 +5,9 @@
 [submodule "markovmix"]
 	path = markovmix
 	url = https://github.com/zhuxr11/markovmix
+[submodule "mineSweepR"]
+	path = mineSweepR
+	url = https://github.com/zhuxr11/minesweepr
 [submodule "roclang"]
 	path = roclang
 	url = https://github.com/zhuxr11/roclang

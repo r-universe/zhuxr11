@@ -5,6 +5,9 @@
 [submodule "cbbinom"]
 	path = cbbinom
 	url = https://github.com/zhuxr11/cbbinom
+[submodule "hypergeo2"]
+	path = hypergeo2
+	url = https://github.com/zhuxr11/hypergeo2
 [submodule "markovmix"]
 	path = markovmix
 	url = https://github.com/zhuxr11/markovmix
